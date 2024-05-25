@@ -1,0 +1,137 @@
+﻿@{
+    <head>
+        <!-- Meta tags -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>KhumaloCraft Emporium</title>
+
+        <!-- External stylesheets -->
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <section class="header">
+            <!-- Header content -->
+            <div class="text-box">
+                <h1>KhumaloCraft Emporium</h1>
+                <p>
+                    <!-- Description -->
+                    <br />James Khumalo, a visionary entrepreneur, set out to establish KhumaloCraft Emporium as a global
+                    <br /> e-commerce platform to showcase handcrafted products. His dream involves connecting artisans
+                    <br /> worldwide with a discerning audience.
+                </p>
+            </div>
+        </section>
+
+        <!-- Our Classes -->
+        <section class="classes">
+            <h1>Our Classes</h1>
+            <p>Brief overview of what we offer.</p>
+
+            <div class="row">
+                <!-- Class 1 -->
+                <div class="classes-col">
+                    <img src="~/images/potterymakingclasses.jpeg" />
+                    <h3>Pottery Making Classes</h3>
+                    <p>
+                        <!-- Description -->
+                        Introduction to different types of clay and their properties.
+                        <br /> Basic hand-building techniques such as pinch, coil, and slab construction.
+                        <br /> Throwing techniques on the pottery wheel (if applicable).
+                        <br /> Surface decoration methods including carving, painting, and glazing.
+                        <br /> Kiln firing processes and safety precautions.
+                    </p>
+                </div>
+                <!-- Class 2 -->
+                <div class="classes-col">
+                    <img src="~/images/weavingmakingclasses.jpg" />
+                    <h3>Weaving Classes</h3>
+                    <p>
+                        <!-- Description -->
+                        Understanding different types of looms and weaving techniques (e.g., frame loom, floor loom, tapestry weaving).
+                        <br /> Choosing appropriate yarns and fibers for weaving projects.
+                        <br /> Basic weaving patterns such as plain weave, twill, and basket weave.
+                        <br /> Techniques for creating various textures and designs.
+                        <br /> Finishing methods for securing the woven fabric and creating edges.
+                    </p>
+                </div>
+                <!-- Class 3 -->
+                <div class="classes-col">
+                    <img src="~/images/woodenringmakingclasses.jpeg" />
+                    <h3>Wooden Ring Making Classes</h3>
+                    <p>
+                        <!-- Description -->
+                        Selection of suitable wood species for ring making.
+                        <br /> Introduction to woodworking tools and safety practices.
+                        <br /> Ring design considerations including sizing, shaping, and embellishments.
+                        <br /> Techniques for cutting, shaping, and sanding the wooden ring.
+                        <br /> Finishing methods such as polishing, oiling, or varnishing to enhance the appearance and durability of the ring.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Testimonials -->
+        <section class="testimonials">
+            <h1>What Some Of Our Customers Have To Say</h1>
+            <p>Brief feedback from some of our happy customers.</p>
+
+            <div class="row">
+                <!-- Testimonial 1 -->
+                <div class="testimonial-col">
+                    <img src="~/images/potterybought.jpg" />
+                    <div>
+                        <!-- Testimonial content -->
+                        <p>"Thrilled with my KhumaloCraft pottery! Exquisite craftsmanship and authentic traditional beauty. Can't wait to add more to my collection!"</p>
+                        <h3>Abdu Jabari</h3>
+                        <!-- Star rating -->
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o"></i>
+                    </div>
+                </div>
+                <!-- Testimonial 2 -->
+                <div class="testimonial-col">
+                    <img src="~/images/woodenringbought.jpg" />
+                    <div>
+                        <!-- Testimonial content -->
+                        <p>"Absolutely love my wooden ring from KhumaloCraft! Exquisite craftsmanship and unique beauty. Can't wait to show it off everywhere I go!"</p>
+                        <h3>Noah Adams</h3>
+                        <!-- Star rating -->
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-half-o"></i>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <section class="footer">
+            <div class="icons">
+                <!-- Social media icon -->
+                <a href="https://www.instagram.com/khumalocraftemporium_/"><i class="fa fa-instagram"></i></a>
+            </div>
+            <p><i class="fa fa-trademark"></i> 2024 KhumaloCraft Emporium</p>
+        </section>
+
+        <!-- JavaScript for Toggle Menu -->
+        <script>
+            var navLinks = document.getElementById("navLinks");
+            function showMenu() {
+                navLinks.style.right = "0";
+            }
+            function hideMenu() {
+                navLinks.style.right = "-200px";
+            }
+        </script>
+    </body>
+}

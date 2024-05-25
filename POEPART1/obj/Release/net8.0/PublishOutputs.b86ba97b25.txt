@@ -1,0 +1,7 @@
+C:\Users\et3pr\Documents\School Work\CLDV6211\CLDV6211 Projects\POEPART1\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART1.exe
+C:\Users\et3pr\Documents\School Work\CLDV6211\CLDV6211 Projects\POEPART1\POEPART1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\CLDV6211 Projects\POEPART1\POEPART1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\CLDV6211 Projects\POEPART1\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART1.dll
+C:\Users\et3pr\Documents\School Work\CLDV6211\CLDV6211 Projects\POEPART1\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART1.deps.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\CLDV6211 Projects\POEPART1\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART1.runtimeconfig.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\CLDV6211 Projects\POEPART1\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART1.pdb

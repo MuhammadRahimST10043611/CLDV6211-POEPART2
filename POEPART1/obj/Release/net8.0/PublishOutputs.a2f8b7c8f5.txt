@@ -1,0 +1,13 @@
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART2.exe
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART2.dll
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART2.deps.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART2.runtimeconfig.json
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\POEPART2.pdb
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\et3pr\Documents\School Work\CLDV6211\POEPART2\POEPART1\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
